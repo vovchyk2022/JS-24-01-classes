@@ -13,4 +13,15 @@ let userAge; //оголошення
 userAge=59; //ініціалізація
 
 console.log(userName);
+console.log(userAge);
+
+const userGender = 'male';
+//userGender = 'female'; // erroy
+
+const AMOUNT_DAYS_WEEK = 7; // - натуральна константа
+let number = 12;
+let number = 89;
+
+console.log(number);
+
 
